@@ -1730,7 +1730,7 @@
 
         #main > section.one {
             background-color: #040f0f;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/banner2.gif");
         }
 
         #main > section.two {
@@ -1969,8 +1969,8 @@
                 outline: 0;
                 border: 0;
             }
-
-                #headerToggle .toggle:before {
+                        /*hamburger*/
+                /* #headerToggle .toggle:before {
                     font-family: FontAwesome;
                     text-decoration: none;
                     font-style: normal;
@@ -1991,7 +1991,7 @@
                     width: 3.25em;
                     height: 2.25em;
                     line-height: 2.25em;
-                }
+                } */
 
         body.header-visible #main {
             -moz-transform: translateX(275px);
